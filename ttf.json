@@ -1,0 +1,26 @@
+{
+    "spec": 1,
+    "name": "SarasaMono",
+    "previewText": "monospaced cjk font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Bold.ttf",
+        "ggsans-Bold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Bold.ttf",
+        "ggsans-BoldItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-BoldItalic.ttf",
+        "ggsans-ExtraBold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Bold.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-BoldItalic.ttf",
+        "ggsans-Medium": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Regular.ttf",
+        "ggsans-MediumItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Italic.ttf",
+        "ggsans-Normal": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Light.ttf",
+        "ggsans-NormalItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-LightItalic.ttf",
+        "ggsans-Semibold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-SemiBold.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-SemiBoldItalic.ttf",
+        "NotoSans-Bold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Bold.ttf",
+        "NotoSans-ExtraBold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Bold.ttf",
+        "NotoSans-Medium": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Regular.ttf",
+        "NotoSans-Normal": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Light.ttf",
+        "NotoSans-NormalItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-LightItalic.ttf",
+        "NotoSans-Semibold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-SemiBold.ttf",
+        "SourceCodePro-Semibold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-SemiBold.ttf"
+    }
+}
+
