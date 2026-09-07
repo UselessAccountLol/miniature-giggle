@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "SarasaMono_ttf_subset_kr",
+    "previewText": "monospaced KOREAN font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Bold-subset.ttf",
+        "ggsans-Bold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Bold-subset.ttf",
+        "ggsans-BoldItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-BoldItalic-subset.ttf",
+        "ggsans-ExtraBold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Bold-subset.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-BoldItalic-subset.ttf",
+        "ggsans-Medium": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Regular-subset.ttf",
+        "ggsans-MediumItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Italic-subset.ttf",
+        "ggsans-Normal": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Light-subset.ttf",
+        "ggsans-NormalItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-LightItalic-subset.ttf",
+        "ggsans-Semibold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-SemiBold-subset.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-SemiBoldItalic-subset.ttf",
+        "NotoSans-Bold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Bold-subset.ttf",
+        "NotoSans-ExtraBold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Bold-subset.ttf",
+        "NotoSans-Medium": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Regular-subset.ttf",
+        "NotoSans-Normal": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-Light-subset.ttf",
+        "NotoSans-NormalItalic": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-LightItalic-subset.ttf",
+        "NotoSans-Semibold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-SemiBold-subset.ttf",
+        "SourceCodePro-Semibold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf-subset/SarasaMonoK-SemiBold-subset.ttf"
+    }
+}
