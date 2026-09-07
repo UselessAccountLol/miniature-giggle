@@ -1,6 +1,6 @@
 {
     "spec": 1,
-    "name": "SarasaMono",
+    "name": "SarasaMono_ttf",
     "previewText": "monospaced cjk font",
     "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/UselessAccountLol/miniature-giggle/raw/refs/heads/main/ttf/SarasaMonoK-Bold.ttf",
